@@ -1,0 +1,30 @@
+{
+  "name": "ylp-colorlog",
+  "version": "1.0.0",
+  "description": "ylp color log library for color your console",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhantParthkumarA/ylp-colorlog.git"
+  },
+  "keywords": [
+    "log with colors"
+  ],
+  "author": "Parthkumar Khant <parthkhant1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhantParthkumarA/ylp-colorlog/issues"
+  },
+  "homepage": "https://github.com/KhantParthkumarA/ylp-colorlog#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
