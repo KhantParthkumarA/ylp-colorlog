@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ylp color log library for color your console",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
